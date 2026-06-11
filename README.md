@@ -19,6 +19,9 @@ A machine learning project that classifies emails as phishing or safe using Scik
 - TF-IDF
 - Naive Bayes
 
+## Install
+pip install -r requirements.txt
+
 ## Run
 
 ```bash
